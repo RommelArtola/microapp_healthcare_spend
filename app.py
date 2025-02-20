@@ -7,7 +7,7 @@ st.set_page_config(
     page_icon="🏥"
 )
 
-st.title('Micro Application: Health Care Spend by Age, Sex, and Spend Details.')
+st.title('Micro Application: Healthcare Spend by Age, Sex, and Spend Details.')
 
 intro_page, plotter_page = st.tabs(["📝 Intro", "📊 Line Chart"])
 
