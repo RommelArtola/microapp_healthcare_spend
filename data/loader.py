@@ -8,7 +8,7 @@ import os
 
 file_repo = os.path.dirname(__file__)
 BLS_CPI_FILEPATH = os.path.join(file_repo, 'BLS CPI Dataset.xlsx')
-AGE_AND_SEX_FILEPATH = os.path.join(file_repo, 'Age and Sex Dataset.csv')
+AGE_AND_SEX_FILEPATH = os.path.join(file_repo, 'Age and Sex dataset.csv')
 
 # @st.cache_data
 def load_data():
