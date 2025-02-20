@@ -7,8 +7,8 @@ import os
 # Get average CPI per year so we can adjust for inflation
 
 file_repo = os.path.dirname(__file__)
-BLS_CPI_FILEPATH = os.path.join(file_repo, 'BLS CPI Dataset.xlsx')
-AGE_AND_SEX_FILEPATH = os.path.join(file_repo, 'Age and Sex Dataset.csv')
+BLS_CPI_FILEPATH = os.path.join(file_repo, 'data', 'BLS CPI Dataset.xlsx')
+AGE_AND_SEX_FILEPATH = os.path.join(file_repo, 'data', 'Age and Sex Dataset.csv')
 
 # @st.cache_data
 def load_data():
