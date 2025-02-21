@@ -9,7 +9,7 @@ def show_intro():
         The use of this application is to allow for end-user data exploration of a Health Care Spend dataset
         bucketed by Age Bucket, Sex, and Category spend.
 
-        Additionally, the nominal spend data has been adjusted for inflation, so user can choose
+        Additionally, the nominal spend data has been adjusted for inflation up to year 2020, so user can choose
         which spend value to visualize on their visuals.
 
         - Citations of Raw Data:
