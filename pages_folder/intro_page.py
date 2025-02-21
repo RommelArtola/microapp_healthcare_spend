@@ -14,8 +14,8 @@ def show_intro():
 
         - Citations of Raw Data:
           * Centers for Medicare & Medicaid Services (2022). 
-          Health Expenditures by State of Residence. Retrieved (date accessed) at 
-          http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/Downloads/resident-state-estimates.zip    
+          Health Expenditures by State of Residence. Retrieved (2025-02-18) at 
+          https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/age-and-sex
           
           * BLS CPI Inflation Dataset at
           https://data.bls.gov/timeseries/CUUR0000SA0
